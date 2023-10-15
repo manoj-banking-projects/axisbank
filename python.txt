@@ -1,1 +1,6 @@
 Hello this is the python file....
+
+
+
+
+Hello guys..I am in stage branch....I hope everyone following Git Commands and Practicing...
